@@ -34,7 +34,11 @@
                             Боулинг-клуб «Галактика» — это не только игра, но и вкусное дополнение к вашему отдыху. В нашем меню вы найдёте всё: от аппетитного фаст-фуда до изысканных десертов, освежающих коктейлей и подборки вин. Независимо от ваших предпочтений, у нас всегда найдётся идеальное гастрономическое сопровождение к вашей партии в боулинг.
                         </p>
                     </div>
-                    
+                </div>
+            </section>
+            
+            <div class="foods-main-block">
+                <div class="foods-content-block">
                     <div class="foods-slider-block">
                         <div class="arrow-left-block">
                             <div class="arrow-left-container btn-prev">
@@ -83,14 +87,18 @@
                             </div>
                         </div>
                     </div>
-                    
+                </div>
+            </div>
+            
+  
+            <section class="content-block">                  
+                <div class="tastes-block">
                     <div class="restaurant-menu-block">
                         <a class="restaurant-menu-href" href="#">
                             Меню ресторана 
                         </a>
                     </div>
                 </div>
-                
                 <div class="our-equipment-block">
                     <div class="our-equipment-content-text">
                         <h2>Наше Оборудование</h2>
